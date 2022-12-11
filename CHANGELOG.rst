@@ -6,6 +6,7 @@ in development
 
 Added
 ~~~~~
+* Move `git clone` to `user_home/.st2packs` #5845
 
 * Continue introducing `pants <https://www.pantsbuild.org/docs>`_ to improve DX (Developer Experience)
   working on StackStorm, improve our security posture, and improve CI reliability thanks in part
